@@ -170,18 +170,6 @@ const experiences = [
     ],
   },
   {
-    title: "Sales Consultant",
-    company_name: "Pepperminds",
-    icon: pepperminds,
-    iconBg: "#ff3b3c",
-    date: "May 2021 - July 2021",
-    points: [
-      "Communication between potential customers in English and Spanish.",
-      "Optimisation of presentations and enhancing the skill of persuasiveness to motivate the customer to buy the product.",
-      "Achievement of the sales target of 10 products per day.",
-    ],
-  },
-  {
     title: "Software Developer",
     company_name: "Adesso",
     icon: adesso,
@@ -215,30 +203,6 @@ const experiences = [
       "Designing and creating a website for the company using Shopify.",
       "Designing images using Adobe Photoshop and Illustrator.",
       "Creating Ad Campaigns with Google Ads, Meta Business Suite and TikTok Ads.",
-    ],
-  },
-  {
-    title: "Media & Marketing Manager",
-    company_name: "Silah Programme",
-    icon: silah,
-    iconBg: "#041533",
-    date: "December 2021 - Present",
-    points: [
-      "Creating informative Instagram Reels.",
-      "Programming website using React + Vite.",
-      "Optimising the growth and reach of the organisation.",
-    ],
-  },
-  {
-    title: "AI Developer",
-    company_name: "Heinrich-Heine-University",
-    icon: hhu,
-    iconBg: "#ffffff",
-    date: "January 2022 - March 2022",
-    points: [
-      "Programming a Gaming AI using Reinforcement Learning.",
-      "The model was programmed in Python.",
-      "The AI model learned to play Snake, Chess and Trackmania Nations.",
     ],
   },
   {
