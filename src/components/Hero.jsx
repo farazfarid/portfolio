@@ -16,7 +16,7 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm{" "}
+            Salaam, I'm{" "}
             <span className="bg-gradient-to-r from-red-700 to-blue-900 bg-clip-text text-transparent">
               Faraz
             </span>
