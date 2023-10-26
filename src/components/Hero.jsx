@@ -23,9 +23,10 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I create stunning web applications
-            <br className="sm:block hidden" /> from front to back, and I also
-            love to design and develop games. I have a keen eye for marketing
-            and business consultation, helping clients achieve their goals
+            <br className="sm:block hidden" /> from frontend to backend, work on
+            AI tools, and I also love to design and develop games. I have a keen
+            eye for marketing and business consultation, helping clients achieve
+            their goals
           </p>
         </div>
       </div>
