@@ -167,7 +167,7 @@ const experiences = [
     date: "October 2021 - Present",
     points: [
       "Programming Websites and Web Apps using Angular with HTML, CSS and Typescript.",
-      "Bug fixing and implementing new features.",
+      "MEAN Full Stack Development with Java Springboot.",
       "Agile Software Development with Scrum and Kanban.",
     ],
   },
